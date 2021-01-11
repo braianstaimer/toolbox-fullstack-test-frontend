@@ -1,13 +1,6 @@
 import { Badge, Col, Row } from "react-bootstrap";
 
 function RowResult({ text, isPalindrome }) {
-  /* Hooks */
-  /* Selectores */
-  /* Constants */
-  /* Estados */
-  /* useEffects */
-  /* Handlers */
-  /* Props */
 
   return (
     <Row className="justify-content-center">

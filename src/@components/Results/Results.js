@@ -2,13 +2,6 @@ import { Container } from "react-bootstrap";
 import RowResult from "./Row";
 
 function Results({ items = [] }) {
-  /* Hooks */
-  /* Selectores */
-  /* Constants */
-  /* Estados */
-  /* useEffects */
-  /* Handlers */
-  /* Props */
 
   return (
     <div className="justify-content-center">

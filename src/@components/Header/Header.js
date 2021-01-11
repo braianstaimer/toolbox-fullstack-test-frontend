@@ -1,13 +1,6 @@
 import { Container, Navbar } from "react-bootstrap";
 
 function Header({ propsInput, propsBtnSend }) {
-  /* Hooks */
-  /* Selectores */
-  /* Constants */
-  /* Estados */
-  /* useEffects */
-  /* Handlers */
-  /* Props */
 
   return (
     <Container fluid style={{ backgroundColor: "#e00002" }}>
