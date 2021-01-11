@@ -16,7 +16,7 @@ function Results({ items = [] }) {
         className="p-4 my-4 bg-white text-dark"
         style={{ minHeight: 400 }}
       >
-        <p>Results:</p>
+        <h4>Results:</h4>
         {items.map((item, idx) => (
           <RowResult
             key={idx}

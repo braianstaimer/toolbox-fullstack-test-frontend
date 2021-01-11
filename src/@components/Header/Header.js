@@ -12,7 +12,7 @@ function Header({ propsInput, propsBtnSend }) {
   return (
     <Container fluid style={{ backgroundColor: "#e00002" }}>
       <Navbar expand="lg" className="justify-content-center py-3 row">
-        <div className="form-inline my-2 my-lg-0 col-lg-8">
+        <div className="form-inline my-2 my-lg-0 col-lg-6">
           <input
             className="form-control mr-sm-2 col-lg-10"
             placeholder="Insert Text"
